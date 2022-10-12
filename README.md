@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm chuanyang 👋</h1>
 
-
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=chuanyang520" /> </div>
   🌈前端技能:
 <p>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
