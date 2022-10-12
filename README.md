@@ -1,6 +1,7 @@
 <h1 align="center">Hi I'm chuanyang 👋</h1>
-
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=chuanyang520" /> </div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=生命在于运动;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
   🌈前端技能:
 <p>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
