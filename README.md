@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 <img src="https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Nodejs" />
+<img src="https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js" />
 </span>
 <br/>
 - 👯 I’m looking to collaborate on ...
