@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-**chuanyang520/chuanyang520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 style="text-align: center">Hi I'm chuanyang 👋</h1>
 
 Here are some ideas to get you started:
 
