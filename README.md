@@ -2,21 +2,18 @@
 
 
 🌱 I’m currently learning ...
-<p>
   前端技能:
-<span >
+<p>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
-</span>
 </p>
-<p>
+
   后端技能:
-<span >
+<p>
 <img src="https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python" />
 <img src="https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js" />
-</span>
 </p>
 <br/>
 👯 I’m looking to collaborate on ...
